@@ -41,3 +41,15 @@ h1{
   position: absolute;
   left: 7px;
 }
+hr{
+  background-color: #b7d2e2;
+  width: 20%;
+  height: 1px;
+  border-style: none;
+  text-align:center;
+  
+}
+.middle-container{
+  padding-top: 50px
+
+}
