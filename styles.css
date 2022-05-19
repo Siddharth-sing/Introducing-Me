@@ -15,8 +15,8 @@ body{
   
 }
 h1{
-  margin-top: 0;  
-  color: green;
+  margin: 50px auto 0 auto;  
+  color: #41CDD1;
   font-family: 'Sacramento', serif;
   font-size:2.5em
 }
