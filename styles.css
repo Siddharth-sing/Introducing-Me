@@ -11,6 +11,9 @@ h1{
   font-family: 'Sacramento', serif;
   font-size:2.5em
 }
+h3{
+  color: #41CDD1;
+}
 a{
   padding: 10px;
   text-decoration: none;
@@ -72,5 +75,27 @@ hr{
 .contact-plates{
   margin: auto;
   padding: 20px
-
+}
+.skill-row:hover{
+  background-color:#d1f1f3
+}
+.skill-row{
+  height: 50%;
+  width: 50%;
+  text-align: left;
+  margin: auto;
+  padding: 25px;
+  border-radius: 25px;
+  
+}
+.skills-img{
+  width: 25%;
+  height: 25%;
+  border-radius:100px;
+  margin: auto 30px auto 30px;
+  float:left;
+}
+p{
+  line-height: 2;
+  font-size: 90%;
 }
