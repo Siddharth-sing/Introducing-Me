@@ -50,6 +50,10 @@ hr{
   
 }
 .middle-container{
-  padding-top: 50px
-
+  padding-top: 40px
+}
+.footer{
+  background-color:#41CDD1;
+  padding: 20px;
+  border-radius: 5px
 }
