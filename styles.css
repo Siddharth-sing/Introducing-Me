@@ -99,3 +99,17 @@ p{
   line-height: 2;
   font-size: 90%;
 }
+.ttImg:hover{
+  background-color:#d1f1f3;
+}
+.ttImg{
+    height: 10%;
+    width: 10%;
+    margin: auto 10px 20px 10px;
+    border-radius: 20px;
+}
+.tools-techs{
+  height: 50%;
+  width: 50%;
+  margin: auto;
+}
