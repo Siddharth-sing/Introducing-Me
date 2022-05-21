@@ -18,12 +18,14 @@ a{
   padding: 10px;
   text-decoration: none;
 }
-.gif{
-  text-align: center;
+.intro-para{
+  margin: auto;
   height:50%;
   width:50%;
-  border-radius: 1000px;
-  padding: 10px;
+}
+.gif{
+  text-align: center;
+  border-radius: 100px;
   background-color:#c9f0f1
 }
 
@@ -56,8 +58,8 @@ hr{
   border-width:1px */
   padding-top: 50px;
   position: relative;
-  height: 100vh;
   width:100%;
+  
   
 }
 .middle-container{
