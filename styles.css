@@ -20,9 +20,9 @@ a{
 }
 .gif{
   text-align: center;
-  height:65%;
-  width:60%;
-  border-radius: 25px;
+  height:50%;
+  width:50%;
+  border-radius: 1000px;
   padding: 10px;
   background-color:#c9f0f1
 }
