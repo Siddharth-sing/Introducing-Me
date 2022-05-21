@@ -136,3 +136,12 @@ p{
     padding: 10px;
   }
 }
+.contact-plate-row:hover{
+  background-color:#d1f1f3;
+  transform: scale(1.25);
+}
+.contact-plate-row{
+  height: auto;
+  width: auto;
+  transition: transform 0.5s;
+}
