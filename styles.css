@@ -80,7 +80,9 @@ hr{
   padding: 20px
 }
 .skill-row:hover{
+  transform: scale(0.90);
   background-color:#d1f1f3
+
 }
 .skill-row{
   height: 50%;
@@ -89,7 +91,7 @@ hr{
   margin: auto;
   padding: 25px;
   border-radius: 25px;
-  
+  transition: transform 0.5s;
 }
 .skills-img{
   width: 25%;
